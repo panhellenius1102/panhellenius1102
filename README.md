@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm a passionate Solana and Rust developer with a 
 ## 🛠️ Projects
 
 ### Solana smart contract: https://github.com/gittysachin/solana-programs
-Description of the project. Highlight key features and technologies used.
+Solana Smart Contracts + Client using Rust + TypeScript
 
 ### Rental: https://github.com/BryanMorgan/rent-share-solana-rust
-Brief description of the second project. Showcase your contributions and achievements.
+Rust Solana BPF smart contract to manage rental agreements and capture transactions on the Solana blockchain.
 
 ## 📚 Blog & Tutorials
 
