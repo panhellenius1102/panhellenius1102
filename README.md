@@ -1,38 +1,41 @@
-# Solana + Rust Developer Guide
+# Hello, I'm Satoshi Kojima 👋
 
-Welcome to the Solana + Rust developer guide! This repository provides resources and information to help developers get started with building on Solana using the Rust programming language.
+Welcome to my GitHub profile! I'm a passionate Solana and Rust developer with a focus on building decentralized applications and smart contracts. I enjoy exploring the intersection of blockchain technology and Rust programming language.
 
-## Table of Contents
+## 🚀 My Skills
 
-1. [Getting Started](#getting-started)
-2. [Setting Up Your Development Environment](#setting-up-your-development-environment)
-3. [Creating Your First Solana Program in Rust](#creating-your-first-solana-program-in-rust)
-4. [Interacting with the Solana Blockchain](#interacting-with-the-solana-blockchain)
-5. [Advanced Topics and Best Practices](#advanced-topics-and-best-practices)
-6. [Resources and Community Support](#resources-and-community-support)
+- **Blockchain**: Solana, Smart Contracts, Web3
+- **Programming Languages**: Rust, JavaScript, TypeScript
+- **Tools & Frameworks**: Solana SDK, Anchor, Rust's Cargo
+- **Web Technologies**: React, Redux, HTML, CSS
 
-## Getting Started
+## 🛠️ Projects
 
-If you're new to Solana development or Rust, this section will provide an overview of what you need to know before diving into the technical details.
+### Solana smart contract: https://github.com/gittysachin/solana-programs
+Description of the project. Highlight key features and technologies used.
 
-## Setting Up Your Development Environment
+### Rental: https://github.com/BryanMorgan/rent-share-solana-rust
+Brief description of the second project. Showcase your contributions and achievements.
 
-Learn how to set up your development environment for Solana and Rust, including installing necessary tools, configuring IDEs, and managing dependencies.
+## 📚 Blog & Tutorials
 
-## Creating Your First Solana Program in Rust
+I love sharing my knowledge and experience. Check out some of my articles and tutorials related to Solana and Rust on my [blog](link-to-blog).
 
-Get hands-on with creating your first Solana program in Rust. This section will guide you through the process of writing, compiling, deploying, and testing a basic Solana smart contract.
+1. [Getting Started with Solana Development](link-to-tutorial)
+2. [Building Smart Contracts with Rust and Solana](link-to-tutorial)
+3. [Optimizing Solana Programs for Performance](link-to-tutorial)
 
-## Interacting with the Solana Blockchain
+## 🌱 I'm Currently Learning
 
-Understand how to interact with the Solana blockchain using Rust, including sending transactions, querying state, and integrating with other smart contracts.
+I believe in continuous learning. Here are some of the technologies and topics I'm currently exploring:
 
-## Advanced Topics and Best Practices
+- [Topic 1](link-to-resource)
+- [Topic 2](link-to-resource)
+- [Topic 3](link-to-resource)
 
-Explore advanced topics such as optimizing performance, handling token standards, implementing security best practices, and integrating with external systems.
+## 📫 Let's Connect
 
-## Resources and Community Support
+- Skypy: live:.cid.53d8996b3199c2c
+- Email: panhellenius@outlook.com
 
-Find a curated list of resources, documentation, developer tools, and community support to help you continue your journey as a Solana + Rust developer.
-
-This repository provides a starting point for your Solana development journey. Feel free to explore each section in detail and leverage the resources provided to become a proficient Solana developer using Rust!
+Feel free to reach out if you have any questions, want to collaborate on a project, or just want to chat about Solana and Rust development. Let's build the decentralized future together! 🌐
